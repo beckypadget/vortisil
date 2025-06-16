@@ -1,7 +1,5 @@
 ![Vortisil](https://raw.githubusercontent.com/khitezza/vortisil/trunk/images/banner.png)
 
-<h4 align=center><a href="https://khitezza.com" rel="nofollow">[ Demo Site ]</a></h4>
-
 ## Features
 
 - Light / Dark theme
