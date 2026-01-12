@@ -1,4 +1,14 @@
 [[works]]
-  name = "Vortisil"
-  url = "https://github.com/khitezza/vortisil"
-  desc = "A fast, minimal, and restrained Hugo theme."
+  name = "Guppies in large groups cooperate more frequently in an experimental test of the group size paradox"
+  url = "https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0790"
+  desc = "The volunteer's dilemma, in which a single individual is required to produce a public good, predicts that individuals in larger groups will cooperate less frequently..."
+
+[[works]]
+  name = "Us, them, and the others: Testing for discrimination amongst outgroups in a single-piece nesting termite, Zootermopsis angusticollis"
+  url = "https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9901"
+  desc = "Recognition of group members is an important adaptation in social organisms because it allows help to be directed toward kin or individuals that are likely to reciprocate, and harm to be directed toward members of competing groups..."
+
+[[works]]
+  name = "Marking through molts: An evaluation of visible implant elastomer to permanently mark individuals in a lower termite species"
+  url = "https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8030"
+  desc = "Advances in individual marking methods have facilitated detailed studies of animal populations and behavior as they allow tracking of individuals through time and space..."
