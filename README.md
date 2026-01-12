@@ -132,7 +132,7 @@ disableKinds = ["taxonomy","term"] # DO NOT MODIFY
     home = ["HTML", "JSON"]
 ```
 
-The Position of the logo,hero and favicon:
+The Position of the logo, hero and favicon:
 
 ```bash
 assets/assets/imgs/logo.png
